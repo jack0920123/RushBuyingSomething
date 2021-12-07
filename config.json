@@ -1,0 +1,11 @@
+{
+  "data": {
+    "name": "yourname",
+    "email": "your email",
+    "password": "your password",
+    "phone": "your phone number",
+    "cellphone": "your cellphone number",
+    "address": "your address",
+    "phonecode": "your 載具"
+  }
+}
